@@ -1,0 +1,24 @@
+{
+    "name": "Metro",
+    "authors":
+    {
+        "name": "itkindaworks",
+        "email": "itkindaworksinc@gmail.com",
+        "url": "https://github.com/ItKindaWorks/ESPHelper_Metro"
+    },
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/ItKindaWorks/ESPHelper_Metro"
+    },
+    "license": "MIT",
+    "keywords": "iot, esp8266, esp32, serial, chrono",
+    "description": "A library to manage periodic schedules for ESPHelper",
+    "version": "1.0.0",
+    "examples": "examples/*/*.ino",
+    "frameworks": "arduino",
+    "platforms": [
+        "espressif",
+        "espressif32"
+    ]
+}
