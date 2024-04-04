@@ -14,7 +14,7 @@
     "license": "MIT",
     "keywords": "iot, esp8266, esp32, serial, chrono",
     "description": "A library to manage periodic schedules for ESPHelper",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "examples": "examples/*/*.ino",
     "frameworks": "arduino",
     "platforms": [

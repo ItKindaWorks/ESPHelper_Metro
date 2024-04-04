@@ -64,7 +64,7 @@ char Metro::check()
 }
 
 unsigned long Metro::checkMillis(){
-  unsigned long startTime = this->previous_millis;
+  //unsigned long startTime = this->previous_millis;
   unsigned long endTime = this->previous_millis + this->interval_millis;
   unsigned long currentTime = millis();
   unsigned long timeRemaining = endTime - currentTime;
